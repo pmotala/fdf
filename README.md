@@ -7,7 +7,7 @@ A simple application, that uses a graphics library, in this case [Minilibx][3], 
 * [The Mechanics behind it all?](#the-mechanics-behind-it-all)
 * [How do I use the application?](#how-do-i-use-the-library)
 
-### What is libft?
+### What is FDF?
 [fdf][1] is an individual project at [WeThinkCode_][2] that requires us to programme a little application that depends on a graphics library, to display wireframe diagrams of a given map. The programme could include advanced features like height differentiation, rotation, as well as perspective wireframe rendering and so forth. 
 
 ### What is in the Project?
